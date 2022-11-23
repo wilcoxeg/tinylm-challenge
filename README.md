@@ -1,1 +1,0 @@
-# tinylm-challenge
