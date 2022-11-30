@@ -15,6 +15,23 @@ body {
   size: 14px;
 }
 
+.greybox{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom:10px;
+  background-color: lightgrey;
+  border-radius: 10px
+}
+
+
+.people{
+ column-count: 3; 
+ padding-top: 20px;
+ font-weight: bold;
+ color: grey;
+}
+
 .master-title{
   font-size: 40px;
   color: #0066ff;
